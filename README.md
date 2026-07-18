@@ -8,8 +8,8 @@ An interactive sales analytics dashboard built using **Microsoft Power BI Deskto
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview 1](dashboard(1).png)
-![Dashboard Overview 2](dashboard(2).png)
+![Dashboard Overview 1](images/dashboard(1).png)
+![Dashboard Overview 2](images/dashboard(2).png)
 
 ---
 
